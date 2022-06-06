@@ -52,7 +52,7 @@ install_script = install.sh
 
 [update_manager mainsail]
 type = web
-channel = stable
+channel = beta
 repo = mainsail-crew/mainsail
 path = ~/mainsail
 
